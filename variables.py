@@ -93,5 +93,6 @@ print (personas[0]['hobbies'][1]['experiencia'])
 # como se elimina una variable
 del personas[0]
 print(personas)
+print(segundo_mes)
 
 
